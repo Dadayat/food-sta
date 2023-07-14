@@ -1,0 +1,33 @@
+:root {
+    --primary-text-color: #2C2C2C;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    color: var(--primary-text-color);
+}
+
+ul, ol {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+}
+
+h1, h2, h3, p {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    display: block;
+}
+
+.container {
+    min-width: 1280px;
+    padding: 0 16px;
+    margin: 0 auto;
+}
