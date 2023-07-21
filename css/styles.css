@@ -31,3 +31,26 @@ img {
     padding: 0 16px;
     margin: 0 auto;
 }
+
+.header-container {
+    display: flex;
+    align-items: center;
+}
+
+.header-list {
+    display: flex;
+    gap: 28px;
+}
+
+.header-logo {
+    margin-right: auto;
+}
+
+.nav-link {
+    display: block;
+    padding: 28px 0;
+}
+
+.header-nav {
+    margin-right: 30px;
+}
